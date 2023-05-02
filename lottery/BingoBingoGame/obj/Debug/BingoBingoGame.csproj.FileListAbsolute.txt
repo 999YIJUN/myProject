@@ -1,0 +1,33 @@
+\\Mac\Home\Desktop\新增資料夾\BingoBingoGame\BingoBingoGame\bin\Debug\BingoBingoGame.exe.config
+\\Mac\Home\Desktop\新增資料夾\BingoBingoGame\BingoBingoGame\bin\Debug\BingoBingoGame.exe
+\\Mac\Home\Desktop\新增資料夾\BingoBingoGame\BingoBingoGame\bin\Debug\BingoBingoGame.pdb
+\\Mac\Home\Desktop\新增資料夾\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\新增資料夾\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\新增資料夾\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.Form1.resources
+\\Mac\Home\Desktop\新增資料夾\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.Properties.Resources.resources
+\\Mac\Home\Desktop\新增資料夾\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\新增資料夾\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\新增資料夾\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.exe
+\\Mac\Home\Desktop\新增資料夾\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.pdb
+C:\Users\iSpan\Desktop\BingoBingoGame-20230116T051459Z-001\BingoBingoGame\BingoBingoGame\bin\Debug\BingoBingoGame.exe.config
+C:\Users\iSpan\Desktop\BingoBingoGame-20230116T051459Z-001\BingoBingoGame\BingoBingoGame\bin\Debug\BingoBingoGame.exe
+C:\Users\iSpan\Desktop\BingoBingoGame-20230116T051459Z-001\BingoBingoGame\BingoBingoGame\bin\Debug\BingoBingoGame.pdb
+C:\Users\iSpan\Desktop\BingoBingoGame-20230116T051459Z-001\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\BingoBingoGame-20230116T051459Z-001\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\BingoBingoGame-20230116T051459Z-001\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.Form1.resources
+C:\Users\iSpan\Desktop\BingoBingoGame-20230116T051459Z-001\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.Properties.Resources.resources
+C:\Users\iSpan\Desktop\BingoBingoGame-20230116T051459Z-001\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\BingoBingoGame-20230116T051459Z-001\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\BingoBingoGame-20230116T051459Z-001\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.exe
+C:\Users\iSpan\Desktop\BingoBingoGame-20230116T051459Z-001\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.pdb
+C:\Users\iSpan\Desktop\20230116 Lottery\BingoBingoGame\BingoBingoGame\bin\Debug\BingoBingoGame.exe.config
+C:\Users\iSpan\Desktop\20230116 Lottery\BingoBingoGame\BingoBingoGame\bin\Debug\BingoBingoGame.exe
+C:\Users\iSpan\Desktop\20230116 Lottery\BingoBingoGame\BingoBingoGame\bin\Debug\BingoBingoGame.pdb
+C:\Users\iSpan\Desktop\20230116 Lottery\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\20230116 Lottery\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\20230116 Lottery\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.Form1.resources
+C:\Users\iSpan\Desktop\20230116 Lottery\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.Properties.Resources.resources
+C:\Users\iSpan\Desktop\20230116 Lottery\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\20230116 Lottery\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\20230116 Lottery\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.exe
+C:\Users\iSpan\Desktop\20230116 Lottery\BingoBingoGame\BingoBingoGame\obj\Debug\BingoBingoGame.pdb
